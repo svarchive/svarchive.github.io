@@ -4,7 +4,7 @@ SpookVooper was the original server in which the SV community was hosted. Since 
 
 ## Archived Channels
 *Notice: These are not full archives of these channels apart from test-1 which does not contain images*
-### [rules (recreation)](https://svarchive.github.io/SpookVooper/rules.md)
+### [rules (recreation)](https://svarchive.github.io/SpookVooper/rules)
 ### [announcements](https://svarchive.github.io/SpookVooper/announcements)
 ### [news](https://svarchive.github.io/SpookVooper/news)
 ### [staff-romcom](https://svarchive.github.io/SpookVooper/staff-romcom)
@@ -42,10 +42,15 @@ This is a list of the channels that were in SV. This is an archive of the list b
 - streaming
 - bots
 - vc-text
+
 **Voice Chats:**
+
 General
+
 Offtopic
+
 Coding
+
 Spike-Streaming
 ### Economy
 - economy-feed
@@ -53,7 +58,9 @@ Spike-Streaming
 - stock-talk
 - casino
 - forum-feed
+  
 **Voice Chats:**
+
 Stock
 ### Senate
 - passed-laws
@@ -62,6 +69,10 @@ Stock
 - senate-private
 - senate-discussion
 - senate-appeals
+  
+  **Voice Chats:**
+
+Senate
 ### Courts
 - supreme-court
 - lower-court-1
@@ -81,7 +92,9 @@ Stock
 - public-suggestions
 - government
 - news-media
+  
 **Voice Chats:**
+
 Courts
 ### Gaming
 - gaming
@@ -95,7 +108,9 @@ Courts
 - kerbal-space-program
 - other-games
 - gaming-bot-channel-and-vc-text
+  
 **Voice Chats**
+
 Gaming
 ### Activities
 - test-1 **(deleted)**
@@ -130,10 +145,15 @@ Gaming
 - event-announcements
 - event-discussion
 ### NerdCraft Radio
+
 **Voice Chats:**
+
 Honk Radio
+
 SVNP Radio
+
 Tyco Radio
+
 Eagle Radio
 ### Archive (Incomplete)
 - dol-announcements
