@@ -3,58 +3,58 @@ A large collection of links to SpookVooper related discord servers.
 
 ## Important
 
-### [rules-and-server-info](svarchive.github.io/SVHub/rules-and-server-info)
+### [rules-and-server-info](https://svarchive.github.io/SVHub/rules-and-server-info)
 
-### [announcements](svarchive.github.io/SVHub/announcements)
+### [announcements](https://svarchive.github.io/SVHub/announcements)
 
-### [ubi-feed](svarchive.github.io/SVHub/ubi-feed)
+### [ubi-feed](https://svarchive.github.io/SVHub/ubi-feed)
 
-### [the-galactic-gazette](svarchive.github.io/SVHub/the-galactic-gazette)
+### [the-galactic-gazette](https://svarchive.github.io/SVHub/the-galactic-gazette)
 
-### [the-galactic-times](svarchive.github.io/SVHub/the-galactic-times)
+### [the-galactic-times](https://svarchive.github.io/SVHub/the-galactic-times)
 ## Guide
 
-### [getting-started](svarchive.github.io/SVHub/getting-started)
+### [getting-started](https://svarchive.github.io/SVHub/getting-started)
 
-### [government](svarchive.github.io/SVHub/government)
+### [government](https://svarchive.github.io/SVHub/government)
 
-### [sv-channels](svarchive.github.io/SVHub/sv-channels)
+### [sv-channels](https://svarchive.github.io/SVHub/sv-channels)
 ## Talk Here
 
-### [general](svarchive.github.io/SVHub/general)
+### [general](https://svarchive.github.io/SVHub/general)
 
-### [general-numero-dos](svarchive.github.io/SVHub/general-numero-dos)
+### [general-numero-dos](https://svarchive.github.io/SVHub/general-numero-dos)
 
-### [server-submissions](svarchive.github.io/SVHub/server-submissions)
+### [server-submissions](https://svarchive.github.io/SVHub/server-submissions)
 
-### [bots](svarchive.github.io/SVHub/bots)
+### [bots](https://svarchive.github.io/SVHub/bots)
 ## Servers
 
-### [valour](svarchive.github.io/SVHub/valour)
+### [valour](https://svarchive.github.io/SVHub/valour)
 
-### [tuf](svarchive.github.io/SVHub/tuf)
+### [tuf](https://svarchive.github.io/SVHub/tuf)
 
-### [dankives](svarchive.github.io/SVHub/dankives)
+### [dankives](https://svarchive.github.io/SVHub/dankives)
 
-### [corporations](svarchive.github.io/SVHub/corporations)
+### [corporations](https://svarchive.github.io/SVHub/corporations)
 
-### [news](svarchive.github.io/SVHub/news)
+### [news](https://svarchive.github.io/SVHub/news)
 
-### [banks](svarchive.github.io/SVHub/banks)
+### [banks](https://svarchive.github.io/SVHub/banks)
 
-### [districts](svarchive.github.io/SVHub/districts)
+### [districts](https://svarchive.github.io/SVHub/districts)
 
-### [government-owned](svarchive.github.io/SVHub/government-owned)
+### [government-owned](https://svarchive.github.io/SVHub/government-owned)
 
-### [political-parties](svarchive.github.io/SVHub/political-parties)
+### [political-parties](https://svarchive.github.io/SVHub/political-parties)
 
-### [bot-servers](svarchive.github.io/SVHub/bot-servers)
+### [bot-servers](https://svarchive.github.io/SVHub/bot-servers)
 
-### [miscellaneous](svarchive.github.io/SVHub/miscellaneous)
+### [miscellaneous](https://svarchive.github.io/SVHub/miscellaneous)
 
-### [graveyard](svarchive.github.io/SVHub/graveyard)
+### [graveyard](https://svarchive.github.io/SVHub/graveyard)
 
-### [runoff](svarchive.github.io/SVHub/runoff)
+### [runoff](https://svarchive.github.io/SVHub/runoff)
 ## Voice Channels
 
-### [music-vc-chat](svarchive.github.io/SVHub/music-vc-chat)
+### [music-vc-chat](https://svarchive.github.io/SVHub/music-vc-chat)
