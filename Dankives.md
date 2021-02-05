@@ -11,7 +11,7 @@ The Dankives is a large collection of hand picked out of context quotes from the
 
 ### [the-dankives](https://svarchive.github.io/Dankives/Dankives)
 ### [super-dankives](https://svarchive.github.io/Dankives/SuperDankives)
-### [the-bois-aisle](https://svarchive.github.io/Dankives/BoisAisle)
+### [the-bois-aisle](https://svarchive.github.io/Dankives/BoisAisle) (This server is not related to SV it is just a part of the Dankives)
 ### [silly's-aisle](https://svarchive.github.io/Dankives/silly’s-aisle)
 ### [mac's-aisle](https://svarchive.github.io/Dankives/mac’s-aisle)
 ### [spike's-aisle](https://svarchive.github.io/Dankives/silly’s-aisle)

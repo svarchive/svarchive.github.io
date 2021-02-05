@@ -17,4 +17,4 @@ Be cool, stay in school, and remember - [Discord considered harmful (Youtube lin
 ### [Vooperia City](https://svarchive.github.io/Districts/VoopCity)
 ### [Landing Cove](https://svarchive.github.io/Districts/LandingCove)
 ### [Netherlands](https://svarchive.github.io/Districts/Netherlands)
-### [OldYam](https://svarchive.github.io/Districts/OldYam)
+### [Old Yam](https://svarchive.github.io/Districts/OldYam)
